@@ -8,4 +8,4 @@ sudo pip install cookiecutter
 ```
 
 ## Usage
-`cookiecutter https://github.com/jmhale/cookiecutter-terraform-setup.git`
+`cookiecutter https://github.com/jmhale/cookiecutter-terraform-module.git`

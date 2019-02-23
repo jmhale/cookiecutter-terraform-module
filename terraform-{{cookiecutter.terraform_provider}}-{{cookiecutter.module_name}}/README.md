@@ -6,7 +6,7 @@
 
 ```
 module "terraform-{{cookiecutter.terraform_provider}}-{{cookiecutter.module_name}}" {
-  source                    = "github.com/{{cookiecutter.github_user}}/terraform-{{cookiecutter.terraform_provider}}-{{cookiecutter.module_name}}"
+  source = "git@github.com:{{cookiecutter.github_user}}/terraform-{{cookiecutter.terraform_provider}}-{{cookiecutter.module_name}}.git"
 }
 
 ```

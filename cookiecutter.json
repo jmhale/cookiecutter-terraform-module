@@ -5,6 +5,5 @@
   "terraform_provider": "aws",
   "github_user": "jmhale",
   "short_description": "What does this module do?",
-  "release_date": "2019-02-23",
   "terraform_version": "0.11.11"
 }

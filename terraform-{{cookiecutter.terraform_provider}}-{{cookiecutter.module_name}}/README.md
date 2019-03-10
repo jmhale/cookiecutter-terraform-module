@@ -22,4 +22,4 @@ module "terraform-{{cookiecutter.terraform_provider}}-{{cookiecutter.module_name
 
 
 ---
-Copyright © {{cookiecutter.release_date.split('-')[0]}}, {{ cookiecutter.full_name }}
+Copyright © {% now 'utc', '%Y' %}, {{ cookiecutter.full_name }}

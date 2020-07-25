@@ -1,9 +1,9 @@
 {
   "full_name": "James Hale",
-  "email": "james@jameshale.net",
+  "email": "james@hale.dev",
   "module_name": "mymodule",
   "terraform_provider": "aws",
   "github_user": "jmhale",
   "short_description": "What does this module do?",
-  "terraform_version": "0.11.11"
+  "terraform_version": "0.12.29"
 }
